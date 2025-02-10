@@ -1,5 +1,5 @@
 server {
-        listen 70;
+        listen 50;
         listen [::]:80;
 
         server_name app.example.com;
